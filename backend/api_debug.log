@@ -1,0 +1,62 @@
+[2026-01-16T14:03:08.835Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:03:08.840Z] Found 3 open loads.
+[2026-01-16T14:03:19.264Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:03:19.267Z] Found 3 open loads.
+[2026-01-16T14:04:19.382Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:04:19.384Z] Found 3 open loads.
+[2026-01-16T14:04:22.766Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:04:22.772Z] Found 3 open loads.
+[2026-01-16T14:04:22.787Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:04:22.793Z] Found 3 open loads.
+[2026-01-16T14:04:51.469Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:04:51.472Z] Found 3 open loads.
+[2026-01-16T14:06:53.224Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:06:53.225Z] Found 3 open loads.
+[2026-01-16T14:07:02.491Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:07:02.497Z] Found 3 open loads.
+[2026-01-16T14:07:02.511Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:07:02.514Z] Found 3 open loads.
+[2026-01-16T14:07:12.754Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:07:12.756Z] Found 3 open loads.
+[2026-01-16T14:07:27.304Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:07:27.306Z] Found 3 open loads.
+[2026-01-16T14:08:18.963Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:08:18.968Z] Found 3 open loads.
+[2026-01-16T14:08:18.989Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:08:18.992Z] Found 3 open loads.
+[2026-01-16T14:09:11.377Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:09:11.380Z] Found 3 open loads.
+[2026-01-16T14:10:35.003Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:10:35.009Z] Found 3 open loads.
+[2026-01-16T14:10:35.036Z] GET /loads/open - Fetching open loads
+[2026-01-16T14:10:35.040Z] Found 3 open loads.
+[2026-01-16T14:37:15.756Z] GET /address-book - User: 2, CoID: 1
+[2026-01-16T14:37:15.760Z] Querying for CoID: 1
+[2026-01-16T14:37:15.767Z] Found 1 addresses.
+[2026-01-16T14:37:15.793Z] GET /address-book - User: 2, CoID: 1
+[2026-01-16T14:37:15.797Z] Querying for CoID: 1
+[2026-01-16T14:37:15.805Z] Found 1 addresses.
+[2026-01-16T14:37:27.178Z] GET /address-book - User: 2, CoID: 1
+[2026-01-16T14:37:27.181Z] Querying for CoID: 1
+[2026-01-16T14:37:27.190Z] Found 1 addresses.
+[2026-01-16T14:37:27.225Z] GET /address-book - User: 2, CoID: 1
+[2026-01-16T14:37:27.234Z] Querying for CoID: 1
+[2026-01-16T14:37:27.240Z] Found 1 addresses.
+[2026-01-16T14:37:34.074Z] GET /address-book - User: 2, CoID: 1
+[2026-01-16T14:37:34.075Z] Querying for CoID: 1
+[2026-01-16T14:37:34.078Z] Found 1 addresses.
+[2026-01-16T14:37:34.091Z] GET /address-book - User: 2, CoID: 1
+[2026-01-16T14:37:34.092Z] Querying for CoID: 1
+[2026-01-16T14:37:34.094Z] Found 1 addresses.
+[2026-01-16T14:37:52.596Z] POST /address-book - User: 2, CoID: 1, Payload: {"title":"test5","address":"test 5","city":"ankara","country":"türkiye"}
+[2026-01-16T14:37:52.598Z] Inserting for CoID: 1
+[2026-01-16T14:37:52.618Z] Success: Address saved
+[2026-01-16T14:37:54.894Z] GET /address-book - User: 2, CoID: 1
+[2026-01-16T14:37:54.897Z] Querying for CoID: 1
+[2026-01-16T14:37:54.904Z] Found 2 addresses.
+[2026-01-16T14:41:36.830Z] GET /address-book - User: 2, CoID: 1
+[2026-01-16T14:41:36.833Z] Querying for CoID: 1
+[2026-01-16T14:41:36.836Z] Found 2 addresses.
+[2026-01-16T14:41:36.851Z] GET /address-book - User: 2, CoID: 1
+[2026-01-16T14:41:36.852Z] Querying for CoID: 1
+[2026-01-16T14:41:36.854Z] Found 2 addresses.
